@@ -1,2 +1,3 @@
 # toy_ds_project
-added creation date
+project creation date: Feb 5, 2024
+author: Anthony Sheu
